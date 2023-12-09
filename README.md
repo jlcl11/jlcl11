@@ -20,6 +20,12 @@
 
 - 📱 [SpendR](https://github.com/jlcl11/XpenseTracker): Aplicación iOS intuitiva para una gestión financiera fluida, destacando una sólida implementación de seguimiento financiero en una interfaz limpia y amigable.
 
+### Cursos
+
+He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo de iOS:
+
+- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI
+
 ### Objetivos futuros
 
 Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Aunque no tengo experiencia laboral, he trabajado en proyectos académicos y personales para fortalecer mis habilidades.
