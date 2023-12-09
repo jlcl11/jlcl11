@@ -12,7 +12,7 @@
 
 ### Mis habilidades
 
-- **Lenguajes:** Java, Kotlin, C#, Swift.
+- **Lenguajes:** Java, Kotlin, C#, Swift, Python.
 - **Frameworks y Tecnologías:** SwiftUI.
 - **Bases de Datos:** SQL.
 
@@ -24,7 +24,7 @@
 
 Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Aunque no tengo experiencia laboral, he trabajado en proyectos académicos y personales para fortalecer mis habilidades.
 
-### Conéctate conmigo
+### Contáctame
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/josé-luis-corral-lópez-42283317b/): ¡Conéctemos y expandamos nuestra red!
 
