@@ -24,7 +24,7 @@
 
 He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo de iOS:
 
-- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI
+- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI.
 
 ### Objetivos futuros
 
@@ -34,7 +34,6 @@ Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Aunque no
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/josé-luis-corral-lópez-42283317b/): ¡Conéctemos y expandamos nuestra red!
 
-<!--
 **jlcl11/jlcl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
