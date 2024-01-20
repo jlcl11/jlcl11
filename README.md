@@ -24,7 +24,7 @@
 
 He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo de iOS:
 
-- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/): Creación de apps SwiftUI con CoreData, Realm, Firebase, Mapkit, URLSession, Alamofire, combine, MVVM y más...
+- 📚 [Desarrollo de apps para iOS 13 con SwiftUI y Swift 5.2](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/): Creación de apps SwiftUI con CoreData, Realm, Firebase, Mapkit, URLSession, Alamofire, combine, MVVM y más...
 - 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI.
 
 ### Objetivos futuros
