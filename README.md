@@ -19,13 +19,17 @@
 ### Proyectos destacados
 
 - 📱 [SpendR](https://github.com/jlcl11/XpenseTracker): Aplicación iOS intuitiva para una gestión financiera fluida, destacando una sólida implementación de seguimiento financiero en una interfaz limpia y amigable.
+- 📱 [RecipeLookup](https://github.com/jlcl11/RecipeLookUp): Aplicación visionOS de cocina sencilla para las nuevas gafas de Apple Vision Pro
 
 ### Cursos
 
 He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo de iOS:
 
-- 📚 [Desarrollo de apps para iOS 13 con SwiftUI y Swift 5.2](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/): Creación de apps SwiftUI con CoreData, Realm, Firebase, Mapkit, URLSession, Alamofire, combine, MVVM y más...
-- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI.
+- 📚 [SwiftUI + SwiftData Masterclass - iOS App Development Swift](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=KEEPLEARNING): The Complete iOS App Development Course with SwiftUI From Beginner to Advanced App Developer with Xcode and SwiftData
+- 📚 [Desarrollo de apps para iOS 13 con SwiftUI y Swift 5.2](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/?couponCode=KEEPLEARNING): Crearemos apps con CoreData, Realm, Firebase, Mapkit, URLSession, Alamofire, combine, MVVM y mas...
+- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/?couponCode=KEEPLEARNING)](https://www.udemy.com/course/swift_ios/?couponCode=KEEPLEARNING)): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI
+- 📚 [SwiftUI - The Complete iOS 17 Reference Library of Code](https://www.udemy.com/course/swiftui-the-complete-developer-course/?couponCode=KEEPLEARNING)): The iOS 17 SwiftUI Framework, Explained! - From the Blockbuster Best Seller "SwiftUI For Masterminds" by JD Gauchat
+- 📚 [Diseño UI: diseño visual y diseño de interfaz con Figma 2024](https://www.udemy.com/course/diseno-uiux-diseno-visual-y-diseno-de-interfaz-con-figma/?couponCode=KEEPLEARNING): Curso de UI/UX y Diseño Visual. Aprendé a diseñar páginas web y aplicaciones móviles funcionales y estéticas con Figma
 
 ### Objetivos futuros
 
