@@ -20,7 +20,7 @@
 
 - 📱 [SpendR](https://github.com/jlcl11/XpenseTracker): Aplicación iOS intuitiva para una gestión financiera fluida, destacando una sólida implementación de seguimiento financiero en una interfaz limpia y amigable.
 - 📱 [RecipeLookup](https://github.com/jlcl11/RecipeLookUp): Aplicación visionOS de cocina sencilla para las nuevas gafas de Apple Vision Pro
-- 📱 [MyWorld](https://github.com/jlcl11/RecipeLookUp):  App hecha en swiftUI que facilita la exploración y descubrimiento de lugares, permitiendo buscar sitios cercanos, guardar favoritos y acceder a tu historial de visitas, todo con una navegación integrada y sencilla.
+- 📱 [MyWorld](https://github.com/jlcl11/MyWorld):  App hecha en swiftUI que facilita la exploración y descubrimiento de lugares, permitiendo buscar sitios cercanos, guardar favoritos y acceder a tu historial de visitas, todo con una navegación integrada y sencilla.
 
 ### Cursos
 
