@@ -35,7 +35,7 @@ He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo 
 
 ### Objetivos futuros
 
-Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Aunque no tengo experiencia laboral, he trabajado en proyectos académicos y personales para fortalecer mis habilidades.
+Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Llevo más de un año como App Manager pero me gustaría convertirme en developer.
 
 ### Contáctame
 
