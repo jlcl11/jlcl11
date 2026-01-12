@@ -1,42 +1,76 @@
-# ¡Hola, soy José Luis! 👋
+# Hey there, I'm José Luis! 👋
 
-## Desarrollador de iOS junior
+### iOS Developer | App Manager @ Coffee King ☕
 
-¡Bienvenido a mi perfil de GitHub! Soy un recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia en una variedad de lenguajes de programación, incluyendo Java, Kotlin, C#, Swift, SwiftUI y SQL.
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
-### Acerca de mí
+---
 
-- 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 💡 Apasionado por la tecnología y el desarrollo de software.
-- 🚀 En constante aprendizaje y explorando nuevas tecnologías.
+Welcome to my GitHub! I've been working for over a year at [Coffee King](https://www.linkedin.com/company/coffee-king-españa/posts/?feedView=all) as an **iOS Developer**, where I've grown into the role of **App Manager** — leading mobile initiatives and shipping production apps to the App Store.
 
-### Mis habilidades
+---
 
-- **Lenguajes:** Java, Kotlin, C#, Swift, Python.
-- **Frameworks y Tecnologías:** SwiftUI.
-- **Bases de Datos:** SQL.
+## 🧑‍💻 About Me
 
-### Proyectos destacados
+- 🎓 Graduated in **Cross-Platform Application Development (DAM)**
+- 💡 Passionate about technology, clean code, and crafting delightful user experiences
+- 🚀 Always learning — currently diving deeper into **Swift Concurrency**, **SwiftData**, and **visionOS**
+- 🍎 Apple ecosystem enthusiast
 
-- 📱 [Lonelyn't](https://github.com/jlcl11/Lonelyn-t):  Lonelyn’t es una aplicación de chat en SwiftUI con respuestas de IA, diseño atractivo y funciones como texto a voz, edición y menús contextuales.
-- 📱 [SpendR](https://github.com/jlcl11/XpenseTracker): Aplicación iOS intuitiva para una gestión financiera fluida, destacando una sólida implementación de seguimiento financiero en una interfaz limpia y amigable.
-- 📱 [RecipeLookup](https://github.com/jlcl11/RecipeLookUp): Aplicación visionOS de cocina sencilla para las nuevas gafas de Apple Vision Pro
-- 📱 [MyWorld](https://github.com/jlcl11/MyWorld):  App hecha en swiftUI que facilita la exploración y descubrimiento de lugares, permitiendo buscar sitios cercanos, guardar favoritos y acceder a tu historial de visitas, todo con una navegación integrada y sencilla.
+---
 
-### Cursos
+## 🛠️ Tech Stack
 
-He completado varios cursos en Udemy para mejorar mis habilidades en desarrollo de iOS:
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Swift, Kotlin, Java, C#, Python |
+| **Frameworks** | SwiftUI, UIKit, Combine |
+| **Databases** | SwiftData, Core Data, SQL |
+| **Tools** | Xcode, Git, Figma |
 
-- 📚 [SwiftUI + SwiftData Masterclass - iOS App Development Swift](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=KEEPLEARNING): The Complete iOS App Development Course with SwiftUI From Beginner to Advanced App Developer with Xcode and SwiftData
-- 📚 [Desarrollo de apps para iOS 13 con SwiftUI y Swift 5.2](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/?couponCode=KEEPLEARNING): Crearemos apps con CoreData, Realm, Firebase, Mapkit, URLSession, Alamofire, combine, MVVM y mas...
-- 📚 [iOS y Swift 5.7  Curso Completo Desde Cero a Profesional](https://www.udemy.com/course/swift_ios/?kw=iOS&src=sac](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/?couponCode=KEEPLEARNING)](https://www.udemy.com/course/swift_ios/?couponCode=KEEPLEARNING)): Curso completo de desarrollo de aplicaciones en iOS y Swift con UIKIT y la mejor introducción a SwiftUI
-- 📚 [SwiftUI - The Complete iOS 17 Reference Library of Code](https://www.udemy.com/course/swiftui-the-complete-developer-course/?couponCode=KEEPLEARNING)): The iOS 17 SwiftUI Framework, Explained! - From the Blockbuster Best Seller "SwiftUI For Masterminds" by JD Gauchat
-- 📚 [Diseño UI: diseño visual y diseño de interfaz con Figma 2024](https://www.udemy.com/course/diseno-uiux-diseno-visual-y-diseno-de-interfaz-con-figma/?couponCode=KEEPLEARNING): Curso de UI/UX y Diseño Visual. Aprendé a diseñar páginas web y aplicaciones móviles funcionales y estéticas con Figma
+---
 
-### Objetivos futuros
+## 🚀 Featured Projects
 
-Actualmente, estoy enfocado en convertirme en un desarrollador de iOS. Llevo más de un año como App Manager pero me gustaría convertirme en developer.
+| Project | Description |
+|---------|-------------|
+| 🎬 [**Ghibli Films**](https://github.com/jlcl11/Ghibli-films) | A modern iOS app to explore Studio Ghibli's filmography. Built with **SwiftUI** and **SwiftData**, featuring the latest in Swift Concurrency. |
+| 💬 [**Lonelyn't**](https://github.com/jlcl11/Lonelyn-t) | An AI-powered chat app with a beautiful SwiftUI interface. Includes text-to-speech, message editing, and contextual menus. |
+| 💰 [**SpendR**](https://github.com/jlcl11/XpenseTracker) | An intuitive expense tracker with a clean, user-friendly interface for seamless financial management. |
+| 🥽 [**RecipeLookup**](https://github.com/jlcl11/RecipeLookUp) | A **visionOS** cooking app designed for Apple Vision Pro — my first spatial computing project! |
+| 🗺️ [**MyWorld**](https://github.com/jlcl11/MyWorld) | A location discovery app with nearby search, favorites, visit history, and integrated navigation. |
 
-### Contáctame
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/josé-luis-corral-lópez-42283317b/): ¡Conéctemos y expandamos nuestra red!
+## 📚 Continuous Learning
+
+I'm committed to staying sharp and up-to-date. Here are some courses I've completed:
+
+- ✅ [**Swift Developer Program**](https://acoding.academy/formaciones/swift-developer-program/) by [Julio César Fernández Muñoz](https://www.linkedin.com/in/jcfmunoz/) — The definitive course for mastering Swift & SwiftUI fundamentals
+- ✅ [**SwiftUI + SwiftData Masterclass**](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) — From beginner to advanced with Xcode and SwiftData
+- ✅ [**iOS 13 App Development with SwiftUI**](https://www.udemy.com/course/desarrollo-de-apps-para-ios-13-con-swiftui-y-swift-52/) — CoreData, Realm, Firebase, MapKit, Combine, MVVM & more
+- ✅ [**iOS & Swift 5.7 Complete Course**](https://www.udemy.com/course/swift_ios/) — Full iOS development with UIKit and SwiftUI
+- ✅ [**SwiftUI - iOS 17 Reference Library**](https://www.udemy.com/course/swiftui-the-complete-developer-course/) — Based on "SwiftUI For Masterminds" by JD Gauchat
+- ✅ [**UI Design with Figma 2024**](https://www.udemy.com/course/diseno-uiux-diseno-visual-y-diseno-de-interfaz-con-figma/) — Visual design and interface design for web & mobile
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josé-luis-corral-lópez-42283317b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to new opportunities and collaborations. Let's build something great together! 🚀</i>
+</p>
+
+---
+
