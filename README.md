@@ -156,28 +156,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<a href="https://github.com/jlcl11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlcl11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=0D96F6&title_color=FA7343" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcl11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=FA7343" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlcl11&theme=tokyonight&hide_border=true&ring=FA7343&fire=FA7343&currStreakLabel=0D96F6" alt="Streak stats" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlcl11&theme=tokyo-night&hide_border=true&area=true&color=FA7343&line=0D96F6&point=FFFFFF" alt="Activity Graph" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jlcl11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlcl11/jlcl11/output/github-contribution-grid-snake-dark.svg" />
