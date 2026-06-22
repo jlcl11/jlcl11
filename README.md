@@ -23,7 +23,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 🔐 **Previously** — iOS internship at ViewNext (billing app, MVVM refactor, unit tests) and AppSec internship at Accenture (Dockerfiles, Jenkins pipelines).
 
-🎓 **Right now** — Apple Coding Academy *Swift Developer Program*. Swift 6, Strict Concurrency, Clean Architecture.
+🎓 **Just completed** — Apple Coding Academy *Swift Developer Program* with final grade **9/10**. Swift 6, Strict Concurrency, Clean Architecture.
 
 🌍 **Open to new opportunities** — across the EU and UK, or remote from Málaga. EU citizen, no sponsorship needed in EU.
 
