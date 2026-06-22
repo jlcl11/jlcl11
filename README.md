@@ -25,7 +25,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 🎓 **Right now** — Apple Coding Academy *Swift Developer Program*. Swift 6, Strict Concurrency, Clean Architecture.
 
-🌍 **Open to new opportunities** — **London preferred**, also Madrid / Barcelona / other EU hubs, or remote from Málaga. EU citizen, no sponsorship needed in EU.
+🌍 **Open to new opportunities** —  Madrid / Barcelona / other EU hubs, or remote from Málaga. EU citizen, no sponsorship needed in EU.
 
 ---
 
