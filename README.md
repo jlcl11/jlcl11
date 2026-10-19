@@ -19,7 +19,7 @@
 
 Native iOS developer with production experience in **Swift, SwiftUI and UIKit**. I like apps that work well under the hood: clear architecture, well-isolated concurrency, and code that is easy to maintain and to explain.
 
-🛠️ **Coffee King · Aug 2024 – Mar 2026** — Junior iOS Developer, then App Manager owning feature delivery for the native production iOS app with international teams: crashes down 30%, delivery times 20% better, and a tvOS prototype.
+🛠️ **Coffee King · Aug 2024 – Mar 2026** — Junior iOS Developer, then App Manager owning feature delivery for the native production iOS app with international teams: fewer crashes, faster releases and a tvOS prototype.
 
 🔐 **Before that** — AppSec intern at Accenture (hardened Dockerfiles, Jenkins pipelines for security scanning) and iOS intern at ViewNext (billing app, architecture refactor, unit tests).
 
