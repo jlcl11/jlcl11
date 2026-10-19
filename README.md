@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jlcl11">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=32&duration=2800&pause=600&color=0D96F6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Jos%C3%A9+Luis+%F0%9F%91%8B;iOS+Developer+%E2%80%94+Swift+6+%C2%B7+SwiftUI+%C2%B7+visionOS;Building+for+iOS+%2F+iPadOS+%2F+visionOS;M%C3%A1laga%2C+Spain+%E2%80%94+open+to+London+%2F+EU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=30&duration=2800&pause=600&color=0D96F6&center=true&vCenter=true&width=880&lines=Hey+there%2C+I%27m+Jos%C3%A9+Luis+%F0%9F%91%8B;iOS+Developer+%E2%80%94+Swift+6+%C2%B7+SwiftUI+%C2%B7+Swift+Concurrency;Now+building+Routes+%E2%80%94+your+walk+in+the+Dynamic+Island;M%C3%A1laga%2C+Spain+%E2%80%94+open+to+EU+and+remote" alt="Typing SVG" />
 </a>
 
 <br>
@@ -17,15 +17,17 @@
 
 ## 👨‍💻 About
 
-Native iOS developer with production experience in **Swift, SwiftUI and UIKit**. I like building apps that work well under the hood — clean architecture, tested code, and things that are easy to maintain.
+Native iOS developer with production experience in **Swift, SwiftUI and UIKit**. I like apps that work well under the hood: clear architecture, well-isolated concurrency, and code that is easy to maintain and to explain.
 
-🛠️ **Since August 2024** — App Manager at Coffee King Ltd (UK), owning iOS feature delivery for a native production app and coordinating with international teams.
+🛠️ **Coffee King · Aug 2024 – Mar 2026** — Junior iOS Developer, then App Manager owning feature delivery for the native production iOS app with international teams: crashes down 30%, delivery times 20% better, and a tvOS prototype.
 
-🔐 **Previously** — iOS internship at ViewNext (billing app, MVVM refactor, unit tests) and AppSec internship at Accenture (Dockerfiles, Jenkins pipelines).
+🔐 **Before that** — AppSec intern at Accenture (hardened Dockerfiles, Jenkins pipelines for security scanning) and iOS intern at ViewNext (billing app, architecture refactor, unit tests).
 
-🎓 **Just completed** — Apple Coding Academy *Swift Developer Program* with final grade **9/10**. Swift 6, Strict Concurrency, Clean Architecture.
+🎓 **Apple Coding Academy** — *Swift Developer Program*, finished in February 2026 with a **9/10**: Swift 6.2 and strict concurrency, SwiftUI and SwiftData.
 
-🌍 **Open to new opportunities** — across the EU and UK, or remote from Málaga. EU citizen, no sponsorship needed in EU.
+🧱 **Now at 42 Málaga** — common core student since September 2026, writing C close to memory and the system.
+
+🌍 **Open to new opportunities** — in Málaga or remote. EU citizen, no sponsorship needed in the EU; UK Skilled Worker visa welcomed.
 
 ---
 
@@ -52,6 +54,12 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 </tr>
 </table>
 
+### 🚧 Now building: Routes
+
+<img src="assets/routes-banner.png" alt="Routes prototypes: the walk screen and the expanded Live Activity in the Dynamic Island" width="100%">
+
+A walk tracker with live distance, time and pace in the Dynamic Island and on the Lock Screen: `CLLocationUpdate`, ActivityKit, App Intents, MapKit and SwiftData, in Swift 6 with strict concurrency. Nothing leaves the iPhone. The repo opens with version 1.
+
 ### Older projects
 
 - [Ghibli Films](https://github.com/jlcl11/Ghibli-films) — Studio Ghibli explorer with SwiftData and a `ModelActor` (2026).
@@ -66,6 +74,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 ### Languages & Platforms
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iPadOS](https://img.shields.io/badge/iPadOS-A8B0AC?style=for-the-badge&logo=apple&logoColor=white)
@@ -74,9 +83,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 ### UI · Frameworks · Concurrency
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Liquid Glass](https://img.shields.io/badge/Liquid_Glass-iOS_26-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-FF9500?style=for-the-badge&logo=swift&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core_ML-34C759?style=for-the-badge&logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-AF52DE?style=for-the-badge&logo=swift&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-30D158?style=for-the-badge&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-FF9F0A?style=for-the-badge&logo=apple&logoColor=white)
@@ -89,14 +96,12 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 ### Architecture & Practices
 ![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D2D2D?style=for-the-badge)
 ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-444444?style=for-the-badge)
 ![Protocol-Oriented](https://img.shields.io/badge/Protocol--Oriented-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge)
+![XCTest](https://img.shields.io/badge/XCTest-25A162?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -119,10 +124,10 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 ## 🎓 Currently Learning
 
-- **Swift 6.2 Strict Concurrency** — re-architecting personal projects toward full data-race safety
-- **Liquid Glass design language** (iOS 26) — adopting the new material in my next project
-- **WidgetKit + Live Activities** — pushing what's possible outside the app surface
-- **Apple Intelligence APIs** — integrating Foundation Models in MangaVault
+- **C and systems programming** at 42 Málaga — pointers, manual memory management and processes
+- **ActivityKit and Live Activities** — Routes lives in the Dynamic Island and on the Lock Screen
+- **Liquid Glass** (iOS 26) — the design language Routes is built with
+- **Swift 6.2 strict concurrency** — actors and isolation domains, with no data races
 
 ---
 
