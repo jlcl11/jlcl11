@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/jlcl11">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=30&duration=2800&pause=600&color=0D96F6&center=true&vCenter=true&width=880&lines=Hey+there%2C+I%27m+Jos%C3%A9+Luis+%F0%9F%91%8B;iOS+Developer+%E2%80%94+Swift+6+%C2%B7+SwiftUI+%C2%B7+Swift+Concurrency;Now+building+Routes+%E2%80%94+your+walk+in+the+Dynamic+Island;M%C3%A1laga%2C+Spain+%E2%80%94+open+to+EU+and+remote" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=SF+Pro+Display&size=30&duration=2800&pause=600&color=0D96F6&center=true&vCenter=true&width=880&lines=Hey+there%2C+I%27m+Jos%C3%A9+Luis+%F0%9F%91%8B;iOS+Developer+%E2%80%94+Swift+6+%C2%B7+SwiftUI+%C2%B7+Swift+Concurrency;Now+building+Routes+%E2%80%94+your+walk+in+the+Dynamic+Island;Student+at+42+M%C3%A1laga+%E2%80%94+writing+C+from+scratch;M%C3%A1laga%2C+Spain+%E2%80%94+open+to+EU+and+remote" alt="Typing SVG" />
 </a>
 
 <br>
@@ -25,7 +25,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 🎓 **Apple Coding Academy** — *Swift Developer Program*, finished in February 2026 with a **9/10**: Swift 6.2 and strict concurrency, SwiftUI and SwiftData.
 
-🧱 **Now at 42 Málaga** — common core student since September 2026, writing C close to memory and the system.
+🧱 **Now at 42 Málaga** — common core student since September 2026, writing C from scratch and defending every project in peer reviews. Libft, get_next_line and ft_printf done; now on push_swap.
 
 🌍 **Open to new opportunities** — in Málaga or remote. EU citizen, no sponsorship needed in the EU; UK Skilled Worker visa welcomed.
 
@@ -59,6 +59,16 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 <img src="assets/routes-banner.png" alt="Routes prototypes: the walk screen and the expanded Live Activity in the Dynamic Island" width="100%">
 
 A walk tracker with live distance, time and pace in the Dynamic Island and on the Lock Screen: `CLLocationUpdate`, ActivityKit, App Intents, MapKit and SwiftData, in Swift 6 with strict concurrency. Nothing leaves the iPhone. The repo opens with version 1.
+
+### 🧱 42 Málaga · Common core
+
+| Project | What it is |
+|---|---|
+| [libft](https://github.com/jlcl11/libft) | My own C library: part of libc rewritten from scratch (`memmove`, `strlcat`, `calloc`…), plus `split`, `itoa`, file-descriptor output and linked lists. The later projects build on it. |
+| [get_next_line](https://github.com/jlcl11/get_next_line) | Returns the next line of a file descriptor on each call, keeping the leftover bytes in a static buffer between calls. The bonus keeps one buffer per descriptor to read several at once. |
+| [ft_printf](https://github.com/jlcl11/ft_printf) | `printf` from scratch with `<stdarg.h>`: `%c %s %p %d %i %u %x %X %%`, plus width, precision and the `-`, `0`, `.`, `#`, `+` and space flags in the bonus. No `malloc`, no buffer. |
+
+Written in C under the 42 Norm with `-Wall -Wextra -Werror`, and evaluated by other students line by line. **Next: push_swap** — sorting integers with two stacks and a small instruction set, in as few moves as possible.
 
 ### Older projects
 
@@ -124,7 +134,7 @@ A walk tracker with live distance, time and pace in the Dynamic Island and on th
 
 ## 🎓 Currently Learning
 
-- **C and systems programming** at 42 Málaga — pointers, manual memory management and processes
+- **C and systems programming** at 42 Málaga — pointers, manual memory management and, with push_swap, sorting algorithms
 - **ActivityKit and Live Activities** — Routes lives in the Dynamic Island and on the Lock Screen
 - **Liquid Glass** (iOS 26) — the design language Routes is built with
 - **Swift 6.2 strict concurrency** — actors and isolation domains, with no data races
