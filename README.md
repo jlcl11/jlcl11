@@ -25,7 +25,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 🎓 **Apple Coding Academy** — *Swift Developer Program*, finished in February 2026 with a **9/10**: Swift 6.2 and strict concurrency, SwiftUI and SwiftData.
 
-🧱 **Now at 42 Málaga** — common core student since September 2026, writing C from scratch and defending every project in peer reviews. Libft, get_next_line and ft_printf done; now on push_swap.
+🧱 **Now at 42 Málaga** — common core student since September 2026, writing C from scratch and defending every project in peer reviews. Libft, get_next_line, ft_printf and push_swap done.
 
 🌍 **Open to new opportunities** — in Málaga or remote. EU citizen, no sponsorship needed in the EU; UK Skilled Worker visa welcomed.
 
@@ -67,8 +67,9 @@ A walk tracker with live distance, time and pace in the Dynamic Island and on th
 | [libft](https://github.com/jlcl11/libft) | My own C library: part of libc rewritten from scratch (`memmove`, `strlcat`, `calloc`…), plus `split`, `itoa`, file-descriptor output and linked lists. The later projects build on it. |
 | [get_next_line](https://github.com/jlcl11/get_next_line) | Returns the next line of a file descriptor on each call, keeping the leftover bytes in a static buffer between calls. The bonus keeps one buffer per descriptor to read several at once. |
 | [ft_printf](https://github.com/jlcl11/ft_printf) | `printf` from scratch with `<stdarg.h>`: `%c %s %p %d %i %u %x %X %%`, plus width, precision and the `-`, `0`, `.`, `#`, `+` and space flags in the bonus. No `malloc`, no buffer. |
+| [push_swap](https://github.com/jlcl11/push_swap) | Team project with jnunez-b: sorts integers on two stacks with a small set of operations (`sa`, `pb`, `ra`, `rra`…), in as few moves as possible. Four strategies: selection sort, chunk sort, LSD radix sort and an adaptive one that picks based on how disordered the input is (about 7,200 moves on average for 500 numbers). My part: the stack operations, selection sort, the parser and input validation, and the Makefile. |
 
-Written in C under the 42 Norm with `-Wall -Wextra -Werror`, and evaluated by other students line by line. **Next: push_swap** — sorting integers with two stacks and a small instruction set, in as few moves as possible.
+Written in C under the 42 Norm with `-Wall -Wextra -Werror`, and evaluated by other students line by line.
 
 ### Older projects
 
