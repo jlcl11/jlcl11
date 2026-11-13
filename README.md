@@ -25,7 +25,7 @@ Native iOS developer with production experience in **Swift, SwiftUI and UIKit**.
 
 🎓 **Apple Coding Academy** — *Swift Developer Program*, finished in February 2026 with a **9/10**: Swift 6.2 and strict concurrency, SwiftUI and SwiftData.
 
-🧱 **Now at 42 Málaga** — common core student since September 2026, writing C from scratch and defending every project in peer reviews. Libft, get_next_line, ft_printf and push_swap done.
+🧱 **Now at 42 Málaga** — common core student since September 2026, writing C from scratch and defending every project in peer reviews. Libft, get_next_line, ft_printf, push_swap and Python Modules 00–03 done.
 
 🌍 **Open to new opportunities** — in Málaga or remote. EU citizen, no sponsorship needed in the EU; UK Skilled Worker visa welcomed.
 
@@ -68,8 +68,9 @@ A walk tracker with live distance, time and pace in the Dynamic Island and on th
 | [get_next_line](https://github.com/jlcl11/get_next_line) | Returns the next line of a file descriptor on each call, keeping the leftover bytes in a static buffer between calls. The bonus keeps one buffer per descriptor to read several at once. |
 | [ft_printf](https://github.com/jlcl11/ft_printf) | `printf` from scratch with `<stdarg.h>`: `%c %s %p %d %i %u %x %X %%`, plus width, precision and the `-`, `0`, `.`, `#`, `+` and space flags in the bonus. No `malloc`, no buffer. |
 | [push_swap](https://github.com/jlcl11/push_swap) | Team project with jnunez-b: sorts integers on two stacks with a small set of operations (`sa`, `pb`, `ra`, `rra`…), in as few moves as possible. Four strategies: selection sort, chunk sort, LSD radix sort and an adaptive one that picks based on how disordered the input is (about 7,200 moves on average for 500 numbers). My part: the stack operations, selection sort, the parser and input validation, and the Makefile. |
+| [python-modules](https://github.com/jlcl11/python-modules) | Python Modules 00–03: the basics (functions, loops, recursion), object-oriented programming with classes and inheritance, exceptions with custom error classes, and collections, generators and comprehensions. |
 
-Written in C under the 42 Norm with `-Wall -Wextra -Werror`, and evaluated by other students line by line.
+The C projects follow the 42 Norm with `-Wall -Wextra -Werror`. Every project is evaluated by other students line by line.
 
 ### Older projects
 
@@ -86,6 +87,7 @@ Written in C under the 42 Norm with `-Wall -Wextra -Werror`, and evaluated by ot
 ### Languages & Platforms
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iPadOS](https://img.shields.io/badge/iPadOS-A8B0AC?style=for-the-badge&logo=apple&logoColor=white)
